@@ -1,0 +1,154 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "\u9cb8\u5e08\u5b66\u5802\n\n\n\u4e00\u8def\u524d\u884c\uff0c\u9cb8\u751f\u6709\u4f60\u3002\n\n\n\u5728\u9cb8\u5e08\u5b66\u5802\u4e00\u8d77\u8e0f\u4e0a\u6570\u636e\u5206\u6790\u6210\u957f\u4e4b\u8def\u3002\n\n\nSQL\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nPython\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nRisk Model\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "\u9996\u9875"
+        },
+        {
+            "location": "/#_1",
+            "text": "\u4e00\u8def\u524d\u884c\uff0c\u9cb8\u751f\u6709\u4f60\u3002  \u5728\u9cb8\u5e08\u5b66\u5802\u4e00\u8d77\u8e0f\u4e0a\u6570\u636e\u5206\u6790\u6210\u957f\u4e4b\u8def\u3002",
+            "title": "\u9cb8\u5e08\u5b66\u5802"
+        },
+        {
+            "location": "/#sql",
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
+            "title": "SQL"
+        },
+        {
+            "location": "/#python",
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
+            "title": "Python"
+        },
+        {
+            "location": "/#risk-model",
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Risk Model"
+        },
+        {
+            "location": "/\u9cb8\u5e08\u5b66\u5802/Excel/",
+            "text": "\u9cb8\u5e08\u5b66\u5802\n\n\n\u4e00\u8def\u524d\u884c\uff0c\u9cb8\u751f\u6709\u4f60\u3002\n\n\n\u5728\u9cb8\u5e08\u5b66\u5802\u4e00\u8d77\u8e0f\u4e0a\u6570\u636e\u5206\u6790\u6210\u957f\u4e4b\u8def\u3002\n\n\nSQL\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nPython\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nRisk Model\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Excel"
+        },
+        {
+            "location": "/\u9cb8\u5e08\u5b66\u5802/Excel/#_1",
+            "text": "\u4e00\u8def\u524d\u884c\uff0c\u9cb8\u751f\u6709\u4f60\u3002  \u5728\u9cb8\u5e08\u5b66\u5802\u4e00\u8d77\u8e0f\u4e0a\u6570\u636e\u5206\u6790\u6210\u957f\u4e4b\u8def\u3002",
+            "title": "\u9cb8\u5e08\u5b66\u5802"
+        },
+        {
+            "location": "/\u9cb8\u5e08\u5b66\u5802/Excel/#sql",
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
+            "title": "SQL"
+        },
+        {
+            "location": "/\u9cb8\u5e08\u5b66\u5802/Excel/#python",
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
+            "title": "Python"
+        },
+        {
+            "location": "/\u9cb8\u5e08\u5b66\u5802/Excel/#risk-model",
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Risk Model"
+        },
+        {
+            "location": "/\u9cb8\u5e08\u5b66\u5802/SQL/",
+            "text": "\u9cb8\u5e08\u5b66\u5802\n\n\n\u4e00\u8def\u524d\u884c\uff0c\u9cb8\u751f\u6709\u4f60\u3002\n\n\n\u5728\u9cb8\u5e08\u5b66\u5802\u4e00\u8d77\u8e0f\u4e0a\u6570\u636e\u5206\u6790\u6210\u957f\u4e4b\u8def\u3002\n\n\nSQL\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nPython\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nRisk Model\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "SQL"
+        },
+        {
+            "location": "/\u9cb8\u5e08\u5b66\u5802/SQL/#_1",
+            "text": "\u4e00\u8def\u524d\u884c\uff0c\u9cb8\u751f\u6709\u4f60\u3002  \u5728\u9cb8\u5e08\u5b66\u5802\u4e00\u8d77\u8e0f\u4e0a\u6570\u636e\u5206\u6790\u6210\u957f\u4e4b\u8def\u3002",
+            "title": "\u9cb8\u5e08\u5b66\u5802"
+        },
+        {
+            "location": "/\u9cb8\u5e08\u5b66\u5802/SQL/#sql",
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
+            "title": "SQL"
+        },
+        {
+            "location": "/\u9cb8\u5e08\u5b66\u5802/SQL/#python",
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
+            "title": "Python"
+        },
+        {
+            "location": "/\u9cb8\u5e08\u5b66\u5802/SQL/#risk-model",
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Risk Model"
+        },
+        {
+            "location": "/\u9cb8\u5e08\u5b66\u5802/Python/",
+            "text": "\u9cb8\u5e08\u5b66\u5802\n\n\n\u4e00\u8def\u524d\u884c\uff0c\u9cb8\u751f\u6709\u4f60\u3002\n\n\n\u5728\u9cb8\u5e08\u5b66\u5802\u4e00\u8d77\u8e0f\u4e0a\u6570\u636e\u5206\u6790\u6210\u957f\u4e4b\u8def\u3002\n\n\nSQL\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nPython\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nRisk Model\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Python"
+        },
+        {
+            "location": "/\u9cb8\u5e08\u5b66\u5802/Python/#_1",
+            "text": "\u4e00\u8def\u524d\u884c\uff0c\u9cb8\u751f\u6709\u4f60\u3002  \u5728\u9cb8\u5e08\u5b66\u5802\u4e00\u8d77\u8e0f\u4e0a\u6570\u636e\u5206\u6790\u6210\u957f\u4e4b\u8def\u3002",
+            "title": "\u9cb8\u5e08\u5b66\u5802"
+        },
+        {
+            "location": "/\u9cb8\u5e08\u5b66\u5802/Python/#sql",
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
+            "title": "SQL"
+        },
+        {
+            "location": "/\u9cb8\u5e08\u5b66\u5802/Python/#python",
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
+            "title": "Python"
+        },
+        {
+            "location": "/\u9cb8\u5e08\u5b66\u5802/Python/#risk-model",
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Risk Model"
+        },
+        {
+            "location": "/\u9cb8\u5e08\u5b66\u5802/Risk Model/",
+            "text": "\u9cb8\u5e08\u5b66\u5802\n\n\n\u4e00\u8def\u524d\u884c\uff0c\u9cb8\u751f\u6709\u4f60\u3002\n\n\n\u5728\u9cb8\u5e08\u5b66\u5802\u4e00\u8d77\u8e0f\u4e0a\u6570\u636e\u5206\u6790\u6210\u957f\u4e4b\u8def\u3002\n\n\nSQL\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nPython\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nRisk Model\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Risk Model"
+        },
+        {
+            "location": "/\u9cb8\u5e08\u5b66\u5802/Risk Model/#_1",
+            "text": "\u4e00\u8def\u524d\u884c\uff0c\u9cb8\u751f\u6709\u4f60\u3002  \u5728\u9cb8\u5e08\u5b66\u5802\u4e00\u8d77\u8e0f\u4e0a\u6570\u636e\u5206\u6790\u6210\u957f\u4e4b\u8def\u3002",
+            "title": "\u9cb8\u5e08\u5b66\u5802"
+        },
+        {
+            "location": "/\u9cb8\u5e08\u5b66\u5802/Risk Model/#sql",
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
+            "title": "SQL"
+        },
+        {
+            "location": "/\u9cb8\u5e08\u5b66\u5802/Risk Model/#python",
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
+            "title": "Python"
+        },
+        {
+            "location": "/\u9cb8\u5e08\u5b66\u5802/Risk Model/#risk-model",
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Risk Model"
+        },
+        {
+            "location": "/about/",
+            "text": "\u9cb8\u5e08\u5b66\u5802\n\n\n\u4e00\u8def\u524d\u884c\uff0c\u9cb8\u751f\u6709\u4f60\u3002\n\n\n\u5728\u9cb8\u5e08\u5b66\u5802\u4e00\u8d77\u8e0f\u4e0a\u6570\u636e\u5206\u6790\u6210\u957f\u4e4b\u8def\u3002\n\n\nSQL\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nPython\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nRisk Model\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "\u5173\u4e8e\u4e00\u9cb8"
+        },
+        {
+            "location": "/about/#_1",
+            "text": "\u4e00\u8def\u524d\u884c\uff0c\u9cb8\u751f\u6709\u4f60\u3002  \u5728\u9cb8\u5e08\u5b66\u5802\u4e00\u8d77\u8e0f\u4e0a\u6570\u636e\u5206\u6790\u6210\u957f\u4e4b\u8def\u3002",
+            "title": "\u9cb8\u5e08\u5b66\u5802"
+        },
+        {
+            "location": "/about/#sql",
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
+            "title": "SQL"
+        },
+        {
+            "location": "/about/#python",
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
+            "title": "Python"
+        },
+        {
+            "location": "/about/#risk-model",
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Risk Model"
+        }
+    ]
+}
